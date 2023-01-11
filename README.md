@@ -14,11 +14,11 @@ Please use the programming language you feel most comfortable in and avoid using
 The user enters a start number of "1000" and an end number of "2222".
 The application will then output that range in words. For example:
 
-> One thousand
-> One thousand and one
-> One thousand and two
+- One thousand
+- One thousand and one
+- One thousand and two
 ...
-> Two thousand, two hundred and twenty two
+- Two thousand, two hundred and twenty two
 
 You have 2 hours to complete this test. We aren't necessarily looking for a complete solution, marks are also awarded on approach and best practice. 
 
