@@ -22,4 +22,4 @@ The application will then output that range in words. For example:
 
 You have 2 hours to complete this test. We aren't necessarily looking for a complete solution, marks are also awarded on approach and best practice. 
 
-Once you have finished and either upload your solution to your github/gitlab account and share a link with us. Create a blank repository for thia, do not fork this repository. You must include all files necessary to run the application and include instructions for running the script in a readme.
+Once you have finished and either upload your solution to your github/gitlab account and share a link with us. Create a blank repository for this, do not fork this repository. You must include all files necessary to run the application and include instructions for running the script in a readme.
